@@ -1,4 +1,4 @@
-#calculate the sum of digits of a number which is taken as input from the user
+calculate the sum of digits of a number which is taken as input from the user
 n = int(input('enter a number'))
 r = 0
 sum = 0
