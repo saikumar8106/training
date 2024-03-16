@@ -1,4 +1,4 @@
-#print first 10 fibanocci series
+print first 10 fibanocci series
 f1=0
 f2=1
 print(f1)
