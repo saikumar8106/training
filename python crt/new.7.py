@@ -1,4 +1,4 @@
-#reverse of a number as digits using while loop:
+reverse of a number as digits using while loop:
 rem = 0
 q = 0
 count = 0 
