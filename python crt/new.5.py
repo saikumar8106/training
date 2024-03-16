@@ -1,4 +1,4 @@
-#print the given number is a prime or not without using count 
+print the given number is a prime or not without using count 
 num = int(input('enter the number'))
 flag = 0
 for i in range(2,num):
